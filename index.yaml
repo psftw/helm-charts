@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  connector:
+  - apiVersion: v1
+    appVersion: latest
+    created: "2021-07-16T17:08:39.581174646Z"
+    description: Twingate Connector helm chart
+    digest: 3b44316d63c6a0913817aadfd467e57cbeafbc099b4a0d5df12cf7b4d9452ec6
+    home: https://www.twingate.com
+    name: connector
+    urls:
+    - packages/connector-0.1.8.tgz
+    version: 0.1.8
+generated: "2021-07-16T17:08:39.580576833Z"
